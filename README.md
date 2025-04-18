@@ -1,3 +1,3 @@
 A simple countdown animation
 
-Checkout thw working 👉 (https://screenrec.com/share/FkJVrxO5yL)
+Checkout the working 👉 (https://screenrec.com/share/FkJVrxO5yL)
